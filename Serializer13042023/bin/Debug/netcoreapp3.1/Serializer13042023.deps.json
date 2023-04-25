@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Serializer13042023/1.0.0": {
+        "dependencies": {
+          "MySerializer": "1.0.0"
+        },
+        "runtime": {
+          "Serializer13042023.dll": {}
+        }
+      },
+      "MySerializer/1.0.0": {
+        "runtime": {
+          "MySerializer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Serializer13042023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySerializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\nyanp\source\repos\Serializer13042023\MySerializer\bin\Debug\netcoreapp3.1\MySerializer.deps.json
+C:\Users\nyanp\source\repos\Serializer13042023\MySerializer\bin\Debug\netcoreapp3.1\MySerializer.dll
+C:\Users\nyanp\source\repos\Serializer13042023\MySerializer\bin\Debug\netcoreapp3.1\MySerializer.pdb
+C:\Users\nyanp\source\repos\Serializer13042023\MySerializer\obj\Debug\netcoreapp3.1\MySerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyanp\source\repos\Serializer13042023\MySerializer\obj\Debug\netcoreapp3.1\MySerializer.AssemblyInfoInputs.cache
+C:\Users\nyanp\source\repos\Serializer13042023\MySerializer\obj\Debug\netcoreapp3.1\MySerializer.AssemblyInfo.cs
+C:\Users\nyanp\source\repos\Serializer13042023\MySerializer\obj\Debug\netcoreapp3.1\MySerializer.csproj.CoreCompileInputs.cache
+C:\Users\nyanp\source\repos\Serializer13042023\MySerializer\obj\Debug\netcoreapp3.1\MySerializer.dll
+C:\Users\nyanp\source\repos\Serializer13042023\MySerializer\obj\Debug\netcoreapp3.1\MySerializer.pdb
+C:\Users\nyanp\source\repos\Serializer13042023\MySerializer\obj\Debug\netcoreapp3.1\MySerializer.csproj.AssemblyReference.cache

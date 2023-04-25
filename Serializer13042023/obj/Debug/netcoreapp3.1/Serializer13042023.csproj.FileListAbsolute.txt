@@ -1,0 +1,17 @@
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\bin\Debug\netcoreapp3.1\Serializer13042023.exe
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\bin\Debug\netcoreapp3.1\Serializer13042023.deps.json
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\bin\Debug\netcoreapp3.1\Serializer13042023.runtimeconfig.json
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\bin\Debug\netcoreapp3.1\Serializer13042023.runtimeconfig.dev.json
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\bin\Debug\netcoreapp3.1\Serializer13042023.dll
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\bin\Debug\netcoreapp3.1\Serializer13042023.pdb
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\obj\Debug\netcoreapp3.1\Serializer13042023.csproj.AssemblyReference.cache
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\obj\Debug\netcoreapp3.1\Serializer13042023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\obj\Debug\netcoreapp3.1\Serializer13042023.AssemblyInfoInputs.cache
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\obj\Debug\netcoreapp3.1\Serializer13042023.AssemblyInfo.cs
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\obj\Debug\netcoreapp3.1\Serializer13042023.csproj.CoreCompileInputs.cache
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\obj\Debug\netcoreapp3.1\Serializer13042023.dll
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\obj\Debug\netcoreapp3.1\Serializer13042023.pdb
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\obj\Debug\netcoreapp3.1\Serializer13042023.genruntimeconfig.cache
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\bin\Debug\netcoreapp3.1\MySerializer.dll
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\bin\Debug\netcoreapp3.1\MySerializer.pdb
+C:\Users\nyanp\source\repos\Serializer13042023\Serializer13042023\obj\Debug\netcoreapp3.1\Serializer13042023.csproj.CopyComplete
